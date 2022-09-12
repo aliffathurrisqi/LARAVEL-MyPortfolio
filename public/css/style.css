@@ -1,0 +1,150 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+body{
+    color:#2C3639;
+}
+
+.nav-link:hover{
+    color: #127BC0;
+}
+
+.nav-link.active{
+    color: #127BC0;
+}
+
+.home h1{
+    font-size: 50px;
+}
+
+.work h3{
+    margin-top: 200px;
+}
+
+.icon-work{
+    color: #127BC0;
+}
+
+.alfari-head-blue{
+    color: #127BC0;
+}
+
+.alfari-head-red{
+    color: #EE2830;
+}
+
+.alfari-head-blue-container{
+    background-color: #127BC0;
+    color: white;
+}
+
+.alfari-head-red-container{
+    background-color: #EE2830;
+    color: white;
+}
+
+
+.btn.btn-linkedin{
+    background-color: #DCD7D8;
+    color: white;
+}
+
+.btn.btn-github{
+    background-color:  #DCD7D8;
+    color: white;
+}
+
+.btn.btn-instagram{
+    background-color:  #DCD7D8;
+    color: white;
+}
+
+.btn.btn-whatsapp{
+    background-color:  #DCD7D8;
+    color: white;
+}
+
+.btn.btn-linkedin:hover{
+    background-color: #0270AD;
+    color: white;
+}
+
+.btn.btn-github:hover{
+    background-color: #272727;
+    color: white;
+}
+
+.btn.btn-instagram:hover{
+    background-color: #FE008E;
+    color: white;
+}
+
+
+.btn.btn-whatsapp:hover{
+    background-color: #00A357;
+    color: white;
+}
+
+#card-body{
+    height: 250px;
+}
+
+.skill-language{
+    background-color: #DCD7D8;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.skill-language:hover{
+    background-color: #127BC0;
+    border: white solid 2px;
+}
+
+.skill-app{
+    background-color: #DCD7D8;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.skill-app:hover{
+    background-color: #EE2830;
+    border: white solid 2px;
+}
+
+.skill-tool{
+    background-color: #DCD7D8;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.skill-tool:hover{
+    background-color: #272727;
+    border: white solid 2px;
+}
+
+.app-logo{
+    width: 50px;
+}
+
+
+@media only screen and (max-width: 1090px) {
+
+    .home h1{
+        font-size: 35px;
+    }
+
+    .home h4{
+        font-size: 18px;
+    }
+
+    .home p{
+        font-size: 14px;
+    }
+
+    /* .img-profile.w-100{
+        width: 50%;
+    } */
+
+}
